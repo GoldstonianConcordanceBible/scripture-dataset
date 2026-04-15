@@ -1,0 +1,20 @@
+[
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "canon_order": 1,
+    "testament": "Old Testament"
+  },
+  {
+    "id": "exodus",
+    "name": "Exodus",
+    "canon_order": 2,
+    "testament": "Old Testament"
+  },
+  {
+    "id": "leviticus",
+    "name": "Leviticus",
+    "canon_order": 3,
+    "testament": "Old Testament"
+  }
+]
