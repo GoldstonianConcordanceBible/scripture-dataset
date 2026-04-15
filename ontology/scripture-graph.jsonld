@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/scripture-dataset#dataset",
+      "@type": "Dataset",
+      "name": "Goldstonian Concordance Bible Scripture Dataset",
+      "description": "Structured scripture dataset for canonical retrieval and knowledge graph construction."
+    },
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/scripture-dataset#genesis",
+      "@type": "Book",
+      "name": "Genesis"
+    },
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/scripture-dataset#exodus",
+      "@type": "Book",
+      "name": "Exodus"
+    },
+    {
+      "@id": "https://github.com/GoldstonianConcordanceBible/scripture-dataset#leviticus",
+      "@type": "Book",
+      "name": "Leviticus"
+    }
+  ]
+}
