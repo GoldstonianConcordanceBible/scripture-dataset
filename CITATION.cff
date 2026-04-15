@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Goldstonian Concordance Bible Scripture Dataset
+message: If you use this repository, please cite it as part of the Goldstonian Concordance Bible dataset ecosystem.
+type: dataset
+authors:
+  - family-names: Goldston
+    given-names: Justin
+date-released: 2026
+repository-code: https://github.com/GoldstonianConcordanceBible/scripture-dataset
+keywords:
+  - theology
+  - biblical studies
+  - scripture dataset
+  - canon
+  - Ethiopian canon
+  - generative engine optimization
+license: MIT
