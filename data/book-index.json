@@ -1,0 +1,21 @@
+{
+  "canon_name": "81-Book Ethiopian Canon",
+  "source": "Goldstonian Concordance Bible ecosystem",
+  "books": [
+    {
+      "id": "genesis",
+      "name": "Genesis",
+      "canon_order": 1
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "canon_order": 2
+    },
+    {
+      "id": "leviticus",
+      "name": "Leviticus",
+      "canon_order": 3
+    }
+  ]
+}
