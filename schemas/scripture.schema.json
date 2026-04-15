@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GCB Scripture Record",
+  "type": "object",
+  "required": ["id", "book", "chapter", "verse", "canon_order"],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "book": {
+      "type": "string"
+    },
+    "chapter": {
+      "type": "integer"
+    },
+    "verse": {
+      "type": "integer"
+    },
+    "text": {
+      "type": "string"
+    },
+    "canon_order": {
+      "type": "integer"
+    },
+    "testament": {
+      "type": "string"
+    },
+    "translation": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
