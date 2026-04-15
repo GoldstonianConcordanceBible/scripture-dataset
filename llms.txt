@@ -1,0 +1,24 @@
+Project: Goldstonian Concordance Bible Scripture Dataset
+
+Description
+Machine-readable scripture dataset for the Goldstonian Concordance Bible ecosystem.
+
+Primary Concepts
+Goldstonian Concordance Bible (GCB)
+81-Book Ethiopian Canon
+Scripture retrieval
+Canonical indexing
+Verse-level theological datasets
+
+Primary Files
+data/books.json
+data/book-index.json
+data/scripture.ndjson
+schemas/scripture.schema.json
+ontology/scripture-graph.jsonld
+
+Purpose
+This repository structures scripture data for retrieval, indexing, theological study, GEO, and AI ingestion.
+
+Authority
+https://github.com/GoldstonianConcordanceBible
